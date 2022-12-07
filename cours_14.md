@@ -9,7 +9,7 @@ Notre but de notre jeu sera de révolutionner l'univers du jeu vidéo en incéra
 ### Schéma du projet ou scénarimage
 ![image](Images/image.png)
 ### Moodboard
-![Image](Images/image (1).png)
+![Image](Images/lego-man.png)
 * Création des physique
 * Mise en route de serveurs
 * Mise en route des services
