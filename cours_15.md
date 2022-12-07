@@ -1,4 +1,8 @@
 # Cours 15
 ## Rétrospective de la session
 
-En 8 à 12 lignes; écris un retour sur ta session. Entre le cours 1 et aujourd'hui, quelles découvertes as-tu faites sur le domaine du multimédia? As-tu découvert un nouveau métier qui pourrait t'intéresser? As-tu découvert un nouvel artiste qui t'a inspiré? Pour quel type d'entreprise préférerais-tu travailler? Est-ce qu'un des domaines du multimédia t'intéresse plus que les autres? Est-ce que tu as préféré une sortie ou une conférence? 
+Depuis le début de ma session j'ais découvert que la technique d'intégration multimédia est bien pour moi, et je me vois continuer dans ce domaine ver le chemin du travail. Je me suis aussi fait plusieurs amis qui ont les même domaine d'interet, donc je doit être dans le bon domaine.
+
+Ce que j'ai préférer faire depuis le début de la session est les court de photoshop, car j'ais pus confirmer que mon coté artistique existe vraiment et que je peut avoir du potentielle dans ce domaine. Les le domainde du multimedia qui ma allumer le plus, sont les jeux de l'umière qui peuvent être crée dans certaine arrangement multimedia mutlimedia, ou le coté artistique et technique qui peut être demander, surtout le dessin.
+
+Les travails que j'aimerais faire dans le domaine du multimedia serait soit un travaille en rapport aver le dessin et possiblement l'animation, ou un travails en rapport avec l'arangement des lumière dans un arrangement multimedia.
